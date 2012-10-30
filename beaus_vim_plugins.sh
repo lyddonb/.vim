@@ -20,6 +20,9 @@ git submodule add https://github.com/kien/ctrlp.vim bundle/ctrlp.vim
 git submodule add https://github.com/benmills/vimux bundle/vimux
 git submodule add git://github.com/myusuf3/numbers.vim.git bundle/numbers
 git submodule add git://github.com/klen/python-mode.git bundle/python-mode
+git submodule add git://github.com/vim-scripts/ZoomWin.git bundle/zoomwin
+git submodule add git://github.com/jeetsukumaran/vim-buffergator.git bundle/vim-buffergator
+git submodule add git://github.com/Lokaltog/vim-powerline.git bundle/vim-powerline
 echo Done loading bundles
 git submodule init
 git submodule update
